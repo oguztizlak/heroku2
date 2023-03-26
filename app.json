@@ -1,8 +1,0 @@
-{
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "email_recevier":"oguztizlak@gmail.com",
-  "keywords": ["node", "express", "static"]
-}
