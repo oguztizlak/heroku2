@@ -1,1 +1,1 @@
-web: gunicorn github_giris:app
+worker: python github_giris.py
